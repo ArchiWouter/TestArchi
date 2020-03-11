@@ -3,5 +3,6 @@
     name="Location"
     id="edbaa879-5529-40b8-9387-17efcce2f291">
   <properties
-      key="Name"/>
+      key="Name"
+      value="Groningen"/>
 </archimate:Location>
