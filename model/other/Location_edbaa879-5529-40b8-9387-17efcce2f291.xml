@@ -5,4 +5,7 @@
   <properties
       key="Name"
       value="Groningen"/>
+  <properties
+      key="opervlakte"
+      value="100m2"/>
 </archimate:Location>
